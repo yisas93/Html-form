@@ -1,0 +1,20 @@
+#contain{
+    height: 10cm;
+    width:8cm;
+    border-style: dashed;
+}
+#divab{
+    height:100px;
+}
+.divg{
+    height: 100px;
+    display: flex;
+}
+#read{
+    padding-left: 30px;
+}
+#exp{
+    height: 100px;
+    width: 130px;
+   
+}
